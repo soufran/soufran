@@ -19,9 +19,7 @@ I'm a final year student pursuing Bachelors's in Artifical Intelligence 🎓 fro
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 🔭  I am currently working on Natural Language Processing Projects
-
-- 🌱 I'm currently learning about Large Language Models (LLMs) and Machine Learning Operations (MLOps)
+- 🔭  I am currently working on Projects involving Large Language Models
 
 - 💬 Ask me anything 🤓
 
