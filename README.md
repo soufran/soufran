@@ -13,7 +13,7 @@
 #### Glad to see you here! 🤩
 <div style="text-align: justify"> 
 
-I'm a final year student pursuing Bachelors's in Artifical Intelligence 🎓 from Goias Federal University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems. 💻 I'm currently improving my skills in natural language processing 🕸️ and looking for an opportunity in the area  🤓.
+I have a Bachelor's degree in Artificial Intelligence 🎓 from the Federal University of Goiás 🏛. I am a passionate student who is always willing to learn and work on technologies and domains 💡. I love exploring new technologies and leveraging them to solve real-life problems. 💻 I am currently improving my skills in natural language processing 🕸️ and looking for an opportunity in the field 🤓.
 
 </div>
 
@@ -25,7 +25,7 @@ I'm a final year student pursuing Bachelors's in Artifical Intelligence 🎓 fro
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/francielidecarvalho/) and francieli.mcarvalho@gmail.com
 
-- 🥅 2024 Goals: Contribute to Open Source projects and Learn more technologies
+- 🥅 20245 Goals: Contribute to Open Source projects and Learn more technologies
   
 - 🎤 Give talks at events on technology-related topics
 
