@@ -25,7 +25,7 @@ I have a Bachelor's degree in Artificial Intelligence 🎓 from the Federal Univ
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/francielidecarvalho/) and francieli.mcarvalho@gmail.com
 
-- 🥅 20245 Goals: Contribute to Open Source projects and Learn more technologies
+- 🥅 2025 Goals: Contribute to Open Source projects and Learn more technologies
   
 - 🎤 Give talks at events on technology-related topics
 
